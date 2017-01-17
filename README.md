@@ -4,4 +4,7 @@ TensorFlow has a steep learning curve. Most tutorials do a lot of work with very
 
 I created this tutorial to help myself learn. It is meant to reinforce basic concepts and make sure there are no gaps left unfilled.
 
-If you want to follow the tutorial and learn how to use TF you should first take a class in Machine Learning. I foud Andrew Ng's class excelent: https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW
+If you want to follow the tutorial and learn how to use TF you should first take a class in Machine Learning.
+
+I foud Andrew Ng's class excelent: https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW
+Also Udacity: https://www.udacity.com/course/deep-learning--ud730

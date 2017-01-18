@@ -1,8 +1,10 @@
 # TensorFlow small bites
 
-TensorFlow has a steep learning curve. Most tutorials do a lot of work with very few lines of code. Even after understanding the code and math, I find myself unable to create new code from scratch. "TODO: Write your code bellow" approach in tutorials and online classes doesen't help me much gaining a strong fundation.
+TensorFlow has a steep learning curve. Most tutorials do a lot of work, very fast, with few lines of code. Even after understanding the code and math, I find myself unable to create new code from scratch.
 
-I created this tutorial to help myself learn. It is meant to reinforce basic concepts and make sure there are no gaps left unfilled.
+This tutorial is a byproduct of my learning process. It is meant to reinforce basic concepts and make sure there are no gaps left.
+
+From notebook to notebook I tried not to add or change more than a couple of lines.
 
 If you don't already have a good understanding of Machine Learning, the notebooks will do little to help you.
 

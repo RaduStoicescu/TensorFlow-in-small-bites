@@ -6,7 +6,7 @@ This tutorial is a byproduct of my learning process.
 
 From notebook to notebook I tried not to add or change more than a couple of lines.
 
-If you don't already have a good understanding of Machine Learning, the notebooks will do little to help you.
+If you don't already have a good understanding of Machine Learning, the notebooks are not going to help you much.
 
 I foud Andrew Ng's class excelent: https://www.youtube.com/watch?v=qeHZOdmJvFU&list=PLZ9qNFMHZ-A4rycgrgOYma6zxF4BZGGPW
 

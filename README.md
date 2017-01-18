@@ -1,4 +1,4 @@
-# TensorFlow small bites
+# TensorFlow in small bites
 
 TensorFlow has a steep learning curve. Most tutorials do a lot of work, very fast, with few lines of code. Even after understanding the code and math, I find myself unable to create new code from scratch.
 

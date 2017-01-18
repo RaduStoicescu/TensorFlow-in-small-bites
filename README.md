@@ -2,7 +2,7 @@
 
 TensorFlow has a steep learning curve. Most tutorials do a lot of work, very fast, with few lines of code. Even after understanding the code and math, I find myself unable to create new code from scratch.
 
-This tutorial is a byproduct of my learning process. It is meant to reinforce basic concepts and make sure there are no gaps left.
+This tutorial is a byproduct of my learning process. 
 
 From notebook to notebook I tried not to add or change more than a couple of lines.
 
